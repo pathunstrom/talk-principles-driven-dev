@@ -2,7 +2,7 @@ Building to Be Teachable
 --------------------------------
 Why `ppb` adopted a principles driven development.
 
-
+Slides: https://docs.google.com/presentation/d/1cyFwXIWMGw_UmQLDn4-SgM266KD8pwwF49jSTcbAxbs/edit?usp=sharing
 
 A loose outline of this talk:
 
